@@ -1,3 +1,3 @@
-##Kurt Sarmiento APP
+#MyApp
 
 This is my App
